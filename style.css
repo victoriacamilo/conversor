@@ -6,7 +6,7 @@
 }
 body {
     font-family: "Roboto Mono", monospace;
-    background-image: url("https://cdn.pixabay.com/photo/2017/07/13/12/51/puzzle-2500328_960_720.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2017/02/20/12/59/money-2082383_960_720.png");
     background-color: #000000;
      background-repeat:no-repeat;
     background-position: center center;      
@@ -67,6 +67,6 @@ body {
   h2 {
     background-color: #0000007e;
     color: white;
-    font-size: 30px;
+    font-size: 25px;
   }
   
