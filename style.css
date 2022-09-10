@@ -8,7 +8,7 @@
 body {
     font-family: "Roboto Mono", monospace;
     background-image: url("https://cdn.pixabay.com/photo/2017/02/20/12/59/money-2082383_960_720.png");
-    background-color: #000000;
+    background-color: white;
      background-repeat:no-repeat;
     background-position: center center;      
     background-size: cover;
@@ -26,12 +26,12 @@ body {
   
   
   .page-title {
-    color: white;
+    color: black;
     margin: 0 0 5px;
   }
   
   .page-subtitle {
-    color: white;
+    color: black;
     margin-top: 5px;
   }
   
@@ -55,7 +55,7 @@ body {
   }
   
   label {
-    color: white;
+    color: black;
   }
   
   button {
